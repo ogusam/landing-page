@@ -11,7 +11,7 @@ function Header() {
             </Link>
             </div>
             <div>
-                <Link to ="/register">Register</Link>
+                <Link to ="/register"><h2>Register</h2></Link>
             </div>
             <div className='main-header__right'>
                 <button className='btn'>Logout</button>
