@@ -6,13 +6,12 @@ function Landingpage() {
   return (
     <div className='home__page'>
     <div __home>
-        <h1>WELCOME TO OUR WORLD</h1>
-        <img src={image} width ='20%' height='20%'alt=''/>
-
-
-
-
+        <section>WELCOME TO OUR WORLD</section>
     </div>
+        <hr/>
+        <div>
+        <img src={image} width ='20%' height='20%'alt=''/>
+      </div>
     </div>
   )
 }

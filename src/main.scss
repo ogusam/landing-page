@@ -33,6 +33,8 @@ button,input, textarea {
     width: 100%;
     margin: 0 auto;
     padding: 15px;
+    display: block;
+    background-color: #026158;
 
     &__inner {
         display: flex;
@@ -123,4 +125,6 @@ button,input, textarea {
         margin-top: 1rem;
         color: red;
     }
+
 }
+
