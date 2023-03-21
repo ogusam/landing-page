@@ -13,6 +13,9 @@ function Header() {
             <div>
                 <Link to ="/register">Register</Link>
             </div>
+            <div className='main-header__right'>
+                <button className='btn'>Logout</button>
+            </div>
 
         </div>
 
