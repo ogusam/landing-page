@@ -1,1 +1,4 @@
 .env
+MONGO_URI=mongodb+srv://ogusam32:Password123456789...@cluster0.dkvufui.mongodb.net/?retryWrites=true&w=majority
+Password123456789...
+node_modules
